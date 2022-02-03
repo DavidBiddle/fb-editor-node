@@ -54,7 +54,7 @@
     "jsonpath": "^1.0.2",
     "jsonschema": "^1.2.5",
     "lodash.clonedeep": "^4.5.0",
-    "strip-ansi": "^6.0.0"
+    "strip-ansi": "^7.0.1"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.0",
